@@ -1,4 +1,7 @@
-aepfel
+äpfel
 birnen
 bier
 leberkäse
+chips
+wurst
+käse
