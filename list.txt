@@ -1,5 +1,6 @@
 äpfel
 birnen
+bananen
 bier
 leberkäse
 chips
