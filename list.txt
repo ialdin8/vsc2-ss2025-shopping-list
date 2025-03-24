@@ -11,3 +11,4 @@ tomaten
 paprika
 gurken
 salat
+brot
